@@ -66,7 +66,7 @@ The results of such tests showed that the gradient of the Linear layer differed 
 
 ## Final Thoughts
 
-The most important lesson that I learned from the project was the connection between mathematical concepts and their implementation in code.
+The most important lesson that I learned from the project was the connection between mathematical concepts and their implementation in code. I finally understood (although at a basic level) how neural networks work, and their implementation in AI and other fields of technology. 
 
 It is one thing to know the definitions of weights, matrix multiplication, activation functions, loss functions, their gradients, and derivatives. It is another thing to implement all of those together and see how they complement each other in a deep learning procedure.
 
@@ -81,3 +81,5 @@ While it was not hard to implement the mathematical operations in code, doing th
 Overall, this project was an important exercise for me that demonstrated how deep learning works from scratch. In essence, it is all about using fundamental mathematical concepts to train a model.
 
 Matrix multiplication is used to estimate new data points, activation functions add non-linearity to the model, the loss function allows one to estimate the accuracy of the model, the chain rule of calculus is used to propagate gradients, and gradient descent updates the weights.
+
+PS: it was so satisfying when the model actually worked lol
